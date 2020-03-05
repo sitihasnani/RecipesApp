@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RecipesApp</string>
+
+    <string-array name="recipe_type">
+        <item>-- Please choose your recipe type --</item>
+        <item>Western</item>
+        <item>Thai</item>
+        <item>Malay</item>
+    </string-array>
+</resources>
